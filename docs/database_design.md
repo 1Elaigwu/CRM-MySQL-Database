@@ -4,7 +4,7 @@ This document describes the database schema used in our CRM system.
 
 ## Entity-Relationship Diagram (ERD)
 
-![ERD](path/to/your/ERD/image.png)
+![CRM database system](https://github.com/1Elaigwu/CRM-MySQL-Database/assets/85877218/16a8baa4-8a1f-4165-bf1c-7e849e1e7e8b)
 
 ## Entities and Attributes
 
