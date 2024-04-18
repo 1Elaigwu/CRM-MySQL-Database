@@ -35,7 +35,7 @@ GROUP BY c.Customer_ID, c.First_Name, c.Last_Name, c.Email
 ORDER BY Total_Order_Amount DESC
 LIMIT 1;
 ```
-Queries for Lead Tracking:
+## Queries for Lead Tracking:
 
 List all leads along with their sources and statuses.
 ```sql
